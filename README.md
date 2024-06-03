@@ -1,6 +1,6 @@
 ### Seja bem-vindo ao meu perfil 🌠
 
-Me chamo jennyfer, mas pode me chamar de Jenny 🫶
+Me chamo jennyfer, mas pode me chamar de Jenny 😚
 
 - Estou aprendendo a programar com o [Alura](https://www.alura.com.br)
 - Estou me aperfeiçoando na linguagem JavaScript
